@@ -60,51 +60,85 @@ Online Delivery Impact: Compare ratings of restaurants with and without delivery
 🔍 Steps Followed
 
 1️⃣ Data Loading
+
 Imported dataset and performed an initial inspection.
 
 2️⃣ Data Cleaning
+
 Handled missing values, removed duplicates, and ensured data consistency.
 
 3️⃣ Cuisine Analysis
-Top 3 most common cuisines:
-North Indian – 2,992 restaurants
-Chinese – 1,880 restaurants
-Fast Food – 1,314 restaurants
+
+•	Top 3 most common cuisines:
+
+•	North Indian – 2,992 restaurants
+
+
+•	Chinese – 1,880 restaurants
+
+•	Fast Food – 1,314 restaurants
 
 4️⃣ City Analysis
+
 City with the most restaurants: New Delhi
 Highest-rated city: Inner City
+
 Sample average ratings by city:
+
 •	Istanbul – 4.29
+
 •	Abu Dhabi – 4.30
+
+
 •	Agra – 3.97
+
 •	Ahmedabad – 4.16
 
 5️⃣ Price Range Distribution
+
 •	Restaurant price categories:
+
 •	Budget (1-star) – 46.53%
+
+
 •	Mid-range (2-star) – 32.59%
+
 •	Premium (3-star) – 14.74%
+
+
 •	Luxury (4-star) – 6.14%
 
 6️⃣ Online Delivery Impact
 •	Percentage of restaurants offering online delivery: 25.66%
 •	Comparison of average ratings:
+
 •	With online delivery – 3.25
+
+
 •	Without online delivery – 2.47
 
 
 🔧 Tools
 •	Programming Language: Python
+
 •	Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+
 •	Data Visualization: Bar Charts, Pie Charts, Boxplots
+
 •	Data Processing: Pandas DataFrames
+
+
 
 📈 Key Findings
 🍽️ Cuisine Analysis
   Top 3 most popular cuisines:
+  
 •	North Indian – 2,992 restaurants
+
 •	Chinese – 1,880 restaurants
+
+
 •	Fast Food – 1,314 restaurants
 
 📍 City Insights
@@ -113,20 +147,36 @@ Highest-rated city: Inner City
 
 💰 Price Range Distribution
 •	Budget (1-star) – 46.53%
+
 •	Mid-range (2-star) – 32.59%
+
+
 •	Premium (3-star) – 14.74%
+
 •	Luxury (4-star) – 6.14%
 
 🚀 Online Delivery Impact
 •	25.66% of restaurants offer online delivery.
+
 •	Average Ratings:
+
+
 •	With Online Delivery: 3.25
+
 •	Without Online Delivery: 2.47
+
+
 
 📢 Note
 Visualizations included in the analysis:
 
 •	Cuisine distribution – Bar Chart
+
 •	City-wise ratings – Histogram
+
+
 •	Price range distribution – Pie Chart
+
 •	Online delivery impact on ratings – Boxplot
+
+
